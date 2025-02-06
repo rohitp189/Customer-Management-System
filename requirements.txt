@@ -1,0 +1,9 @@
+streamlit
+mysql-connector-python
+pandas
+matplotlib
+streamlit_shadcn_ui
+plotly
+folium
+geopy
+bcrypt
